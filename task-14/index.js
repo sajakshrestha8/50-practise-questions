@@ -4,7 +4,7 @@
 let n1 = 0;
 let n2 = 1;
 
-console.log(n1, "\n", "s");
+console.log(n1);
 console.log(n2);
 
 function fibonnaci() {
